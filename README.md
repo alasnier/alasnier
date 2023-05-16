@@ -10,7 +10,7 @@ Programming languages & tools:
  
 Deployment:
 
-<img src='src/docker.svg' width="50" height="40"> <img src='src/heroku.svg' width="50" height="40"> <img src='src/aws.svg' width="50" height="40"> <img src='src/fastapi.svg' width="50" height="40"> <img src='src/streamlit.svg' width="50" height="40">
+<img src='src/docker.svg' width="50" height="40"> <img src='src/heroku.svg' width="50" height="40"> <img src='src/fastapi.svg' width="50" height="40"> <img src='src/streamlit.svg' width="50" height="40">
 
 Cloud services:
 
