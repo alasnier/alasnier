@@ -6,7 +6,7 @@
 
 Programming languages & tools:
 
-<img src='src/python.svg' width="50" height="40"> <img src='src/visualstudiocode.svg' width="50" height="40"> <img src='src/pandas.svg' width="50" height="40">
+<img src='src/python.svg' width="50" height="40"> <img src='src/visualstudiocode.svg' width="50" height="40"> <img src='src/pandas.svg' width="50" height="40"> <img src='src/jupyter.svg' width="50" height="40">
  
 Deployment:
 
@@ -19,14 +19,13 @@ Cloud services:
 
 Big data: 
 
-<img src='src/apachespark.svg' width="50" height="40"> <img src='src/databricks.svg' width="50" height="40"> 
+<img src='src/spark.svg' height="40"> <img src='databricks.svg' height="40"> 
 
 
 
 I’m currently working at [Renault Group](https://www.renaultgroup.com/)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-goupil-5a74a891/)
-![codewars](https://www.codewars.com/users/kevingfox/badges/micro)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-lasnier/)
 
 
 <!--
