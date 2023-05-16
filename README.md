@@ -19,7 +19,7 @@ Cloud services:
 
 Big data: 
 
-<img src='src/spark.svg' height="40"> <img src='databricks.svg' height="40"> 
+<img src='src/spark.svg' height="40"> <img src='src/databricks.svg' height="40"> 
 
 
 
