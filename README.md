@@ -10,7 +10,7 @@ Programming languages & tools:
  
 Deployment:
 
-<img src='src/docker.svg' width="50" height="40"> <img src='src/heroku.svg' width="50" height="40"> <img src='src/fastapi.svg' width="50" height="40"> <img src='src/streamlit.svg' width="50" height="40">
+<img src='src/docker.svg' width="50" height="40"> <img src='src/heroku.svg' width="50" height="40"> <img src='src/aws.svg' width="50" height="40"> <img src='src/fastapi.svg' width="50" height="40"> <img src='src/streamlit.svg' width="50" height="40">
 
 Cloud services:
 
@@ -20,6 +20,10 @@ Cloud services:
 Big data: 
 
 <img src='src/spark.svg' height="40"> <img src='src/databricks.svg' height="40"> 
+
+ETL:
+
+<img src='src/airflow.svg' width="50" height="40"> <img src='src/mage.png' height="40">
 
 
 
