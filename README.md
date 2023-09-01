@@ -21,7 +21,7 @@ Big data:
 
 <img src='src/spark.svg' height="40"> <img src='src/databricks.svg' height="40"> 
 
-workflows / ETL:
+Workflows / ETL:
 
 <img src='src/airflow.svg' width="50" height="40"> <img src='src/mage.png' height="40">
 
