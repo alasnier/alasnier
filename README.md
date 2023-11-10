@@ -10,7 +10,7 @@
 
 Programming languages & tools:
 
-<img src="src/python.svg" width="50" height="40"> <img src="src/visualstudiocode.svg" width="50" height="40"> <img src="src/pandas.svg" width="50" height="40"> <img src="src/jupyter.svg" width="50" height="40">
+<img src="src/python.svg" width="50" height="40"> <img src="src/visualstudiocode.svg" width="50" height="40"> <img src="src/pandas.svg" width="50" height="40"> <img src="src/jupyter.svg" width="50" height="40"> <img src="src/matlab.jpg" width="50" height="40">
 
 Deployment:
 
