@@ -36,10 +36,10 @@ Welcome to my GitHub portfolio! I specialize in **Big Data engineering**, **Clou
 
 ### Featured Projects
 
-- **[MotoGP Data Pipeline & Dashboard](link_to_repo)**  
+- **[MotoGP Data Pipeline & Dashboard]([link_to_repo](https://github.com/alasnier/MotoGP_endtoend))**  
   An end-to-end data engineering project that involves web scraping, data processing, and storage in Google BigQuery, with a dynamic dashboard built in Looker Studio for weekly updated insights on MotoGP statistics.
 
-- **[Customer Experience Analysis with NLP & Visualization](link_to_repo)**  
+- **[Customer Experience Analysis with NLP & Visualization]([link_to_repo](https://github.com/alasnier/customer_experience_NLP))**  
   A data science project applying NLP to analyze customer service notes, combined with visualizations to uncover trends, gather sales information, and raise relevant questions for business insights.
 
 ---
